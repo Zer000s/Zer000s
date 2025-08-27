@@ -28,9 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer000s&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer000s&theme=tokyonight" alt="streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Zer000s" alt="GitHub Streak" /></a>
 
 ---
 
