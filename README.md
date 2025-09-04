@@ -2,8 +2,8 @@
 <h3 align="center">💻 Full-stack / Backend разработчик</h3>
 
 <p align="center">
-  ⚡ Основной фокус: <b>Java + Spring Boot, PostgreSQL, MongoDB</b><br>
-  🌍 Опыт также в: <b>React, Node.js, Docker, CI/CD</b><br>
+  ⚡ Основной фокус: <b>Java + Spring Boot, PostgreSQL, MySQL</b><br>
+  🌍 Опыт также в: <b>React, Node.js, C#, .Net, Python, PyTorch</b><br>
 </p>
 
 ---
